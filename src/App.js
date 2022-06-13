@@ -11,7 +11,7 @@ export const ReverseContext = React.createContext();
 //const LOCAL_STORAGE_KEY = "schoolsoft.clicks";
 
 /* 
-En väldigt enkel applikation.
+Det här är en väldigt enkel applikation.
 Men jag använder mig av så mycket olika tekniker i React för att hantera datan som möjligt.
 Som bland annat useContext/useState/useEffect/Routing/useLocation/Props/Link/ApiService/Localstorage/olika typer av funktioner/Css och Flexbox.
 Tryck på Reverso knappen för att vända på text.
